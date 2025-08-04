@@ -4,10 +4,15 @@ This report documents the completion of Task 1: Scanning the Local Network for O
 
 ## Contents of the Report
 Executive Summary – Overview and objective of the task
+
 Tools & Environment – Description of the system setup and tools used
+
 Methodology – Step-by-step execution of the TCP SYN scan
+
 Scan Results – List of discovered hosts, open ports, and detected services
+
 Analysis & Recommendations – Interpretation of findings and security recommendations
+
 Outcome & Conclusion – Skills acquired and summary of learning
 -----
 
